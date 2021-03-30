@@ -1,7 +1,8 @@
 name: text_x_arc
-description: Arc text
+description: the Arc Text drawer
 version: 0.0.1
 author: taodo2291@gmail.com
+repository: https://github.com/taodo2291/xarctext_flutter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

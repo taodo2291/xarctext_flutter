@@ -58,9 +58,9 @@ class MyPainter extends CustomPainter {
 
 ```
 
-Checkout the playgound example for more info.
+Checkout the  [playground](https://github.com/taodo2291/xarctext_flutter/example/lib/main.dart) example for more information.
 
-Feel free to report bugs or suggest any improvement
+Feel free to report bugs or suggest any improvement.
 #
 
 ## Author
